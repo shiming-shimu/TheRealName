@@ -1,0 +1,4 @@
+name: TheRealName
+version: ${project.version}
+main: me.shiming.TheRealName.TheRealName
+api-version: 1.15
